@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.mohsen.tvsample.ui.fragment.MainPageFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
+
+<!--<androidx.constraintlayout.widget.ConstraintLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".ui.main.MainActivity"-->
+<!--    >-->
+
+<!--    <fragment-->
+<!--        android:name="com.mohsen.tvsample.ui.fragment.MainPageFragment"-->
+<!--        android:id="@+id/main_fra"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+
+<!--        />-->
+<!--&lt;!&ndash;    android:name="androidx.navigation.fragment.NavHostFragment"&ndash;&gt;-->
+<!--&lt;!&ndash;    app:navGraph="@navigation/navigation"&ndash;&gt;-->
+<!--&lt;!&ndash;    app:defaultNavHost="true"&ndash;&gt;-->
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
